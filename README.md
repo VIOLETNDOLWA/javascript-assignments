@@ -1,2 +1,2 @@
 # javascript-assignments
-assignment 1
+my assignment is called assignment1
